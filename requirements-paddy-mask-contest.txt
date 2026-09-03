@@ -1,0 +1,4 @@
+# Complete contest executable: zero-shot primary-paddy masking plus supplied model inference.
+-r requirements-paddy-mask-zero-shot.txt
+joblib>=1.3
+scikit-learn>=1.3

@@ -1,0 +1,4 @@
+# Installs Grounding DINO and Segment Anything support through Transformers.
+-r requirements-paddy-mask.txt
+torch>=2.1
+transformers>=4.40

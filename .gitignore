@@ -214,5 +214,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Local paddy-mask staging runs and model environment
+staged_desktop_paddies/
+desktop_paddy_background_outputs/
+.paddy-mask-venv/
+unified_contest_run/
+*.pkl
+
 # Streamlit
 .streamlit/secrets.toml
