@@ -219,6 +219,7 @@ staged_desktop_paddies/
 desktop_paddy_background_outputs/
 .paddy-mask-venv/
 unified_contest_run/
+windows_package/
 *.pkl
 
 # Streamlit
